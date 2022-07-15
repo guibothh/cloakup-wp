@@ -1,0 +1,4 @@
+<?php
+
+// wordpress 404
+
