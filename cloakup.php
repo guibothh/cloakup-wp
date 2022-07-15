@@ -6,7 +6,7 @@
  * Description: Traffic filtering for your website.
  * Version: 1.0.0
  * Author: Cloakup
- * Author URI: https://github.com/upsurgedev
+ * Author URI: https://cloakup.me
  * License: GPL2
  */
 
